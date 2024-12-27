@@ -16,7 +16,7 @@
 
 ### アプリ
 
-[Creatopia、プログラミングの基礎を効率的に学べるスマホアプリ「プログラミング単語帳」を正式リリース](https://codezine.jp/article/detail/19851)
+- [Creatopia、プログラミングの基礎を効率的に学べるスマホアプリ「プログラミング単語帳」を正式リリース](https://codezine.jp/article/detail/19851)
 
 
 ### エラー解決 ＆ 問題解決
@@ -69,7 +69,7 @@
 
 ### Git + GitHub
 
-[【図解解説】これ1本でGitをマスターできるチュートリアル！【完全版】](https://qiita.com/Sicut_study/items/0318cc136c189b179b7f)
+- [【図解解説】これ1本でGitをマスターできるチュートリアル！【完全版】](https://qiita.com/Sicut_study/items/0318cc136c189b179b7f)
 
-[ワイのGitHubリポジトリおすすめ設定(2022年 決定版)](https://qiita.com/john-Q/items/8b42d56b0be4ec63edb4)
+- [ワイのGitHubリポジトリおすすめ設定(2022年 決定版)](https://qiita.com/john-Q/items/8b42d56b0be4ec63edb4)
 
