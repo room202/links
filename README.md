@@ -39,14 +39,30 @@
 
 - [エンジニアにも知って欲しいChatGPT基本テクニック](https://qiita.com/b-mente/items/93ea3d9a4fc33a76b949)
 
+- [ChatGPTに対する賢い質問方法 n選(チートシート)](https://qiita.com/zizynonno/items/29de3beb0ff867357ab3)
+
+- [みんなで生成AIを使って生産性を高めよう！　超手軽なのに便利な使い方を紹介](https://ascii.jp/elem/000/004/242/4242443/)
+
 - [マイクロソフト、初心者向け生成AI学習教材「生成AIアプリケーションの開発を始めるために必要な全知識を学べる12講座」を無償公開](https://www.publickey1.jp/blog/24/aiai12.html)
 
+## プログラミング言語
 
-## チーム開発
+### HTML/CSS
 
-- [チームビルディングってどうやってやるの？ 代表的な手法やゲームを紹介](https://teamhackers.io/how-do-you-do-team-building/)
+- [コピペ一発！便利なCSSレイアウト生成ツールおすすめ12選（Grid ＆ Flexbox編）](https://photoshopvip.net/135692)
 
-- [IT エンジニアが対人関係でしくじらないために](https://qiita.com/e99h2121/items/99333306e66c77fcd3bb)
+- [【保存版】フロントエンド初心者がまず読むべき資料まとめ【2024年最新】](https://qiita.com/nuco_YM/items/b4259d838be53a6f44ee)
+
+### JavaScript
+
+- [JavaScriptの基礎と向き合う](https://tech.iimon.co.jp/entry/2024/12/23)
+
+
+### Python
+
+- [40代プログラミング初心者がpython始めて半年！独学で勉強が続いている理由と読んだ本](https://qiita.com/usagipy/items/3cedb356702c1301028b)
+
+- [高校生向けの無料プログラミング講座「ハイスクールPython」が登場！](https://edu.watch.impress.co.jp/docs/report/1649104.html)
 
 ## インターネットリテラシー
 
@@ -54,18 +70,15 @@
 
 - [国民のためのサイバーセキュリティサイト](https://www.soumu.go.jp/main_sosiki/cybersecurity/kokumin/index.html)
 
-## HTML/CSS
+## チーム開発
 
-- [コピペ一発！便利なCSSレイアウト生成ツールおすすめ12選（Grid ＆ Flexbox編）](https://photoshopvip.net/135692)
+- [チームビルディングってどうやってやるの？ 代表的な手法やゲームを紹介](https://teamhackers.io/how-do-you-do-team-building/)
 
-
-## Python
-
-- [40代プログラミング初心者がpython始めて半年！独学で勉強が続いている理由と読んだ本](https://qiita.com/usagipy/items/3cedb356702c1301028b)
-
-
+- [IT エンジニアが対人関係でしくじらないために](https://qiita.com/e99h2121/items/99333306e66c77fcd3bb)
 
 ## 中上級向け
+
+- [【2024年版】エンジニア必見　生産性があがるチートシート集](https://qiita.com/qrrq/items/51f6f0944c82f5cb3d16)
 
 ### Git + GitHub
 
