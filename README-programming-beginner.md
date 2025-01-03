@@ -14,6 +14,8 @@
 
 - [IPA(情報処理推進機構)が公開している資料が有益すぎる](https://qiita.com/KNR109/items/1fa6d697a936c54329c6)
 
+- [生成AI時代にコードを書く人が勉強しておくべき最低限の知識（私見）](https://note.com/hirokivv/n/ncecddc141065)
+
 ### アプリ
 
 - [Creatopia、プログラミングの基礎を効率的に学べるスマホアプリ「プログラミング単語帳」を正式リリース](https://codezine.jp/article/detail/19851)
