@@ -70,6 +70,10 @@
 
 - [高校生向けの無料プログラミング講座「ハイスクールPython」が登場！](https://edu.watch.impress.co.jp/docs/report/1649104.html)
 
+## Linux
+
+- [[🔰初心者向け]Linuxを初歩から学びたい方へ🐧 ~ 初級編 全14回 ~](https://qiita.com/ikemura-ren/items/3e7b6ec1b0cd9b3928d6)
+
 ## インターネットリテラシー
 
 - [ポン太のインターネット教室](https://withponta.jp/)
