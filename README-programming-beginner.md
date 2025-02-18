@@ -60,6 +60,10 @@
 - [JavaScriptの基礎と向き合う](https://tech.iimon.co.jp/entry/2024/12/23)
 
 
+### SQL
+
+- [SQL道場](https://sql-dojo.com/)
+
 ### Python
 
 - [40代プログラミング初心者がpython始めて半年！独学で勉強が続いている理由と読んだ本](https://qiita.com/usagipy/items/3cedb356702c1301028b)
