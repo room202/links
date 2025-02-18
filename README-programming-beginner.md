@@ -37,7 +37,7 @@
 
 - [新しい技術を学習しながらNotionでメモをとり、Zennで効率よく記事化するフロー](https://zenn.dev/pytokyo/articles/9af8586dacdebf60ce15?redirected=1)
 
-## 生成AI
+## 生成AI活用
 
 - [エンジニアにも知って欲しいChatGPT基本テクニック](https://qiita.com/b-mente/items/93ea3d9a4fc33a76b949)
 
