@@ -28,6 +28,7 @@
 
 - [エンジニアにも知って欲しいChatGPT基本テクニック](https://qiita.com/b-mente/items/93ea3d9a4fc33a76b949)
 - [ChatGPTに対する賢い質問方法 n選(チートシート)](https://qiita.com/zizynonno/items/29de3beb0ff867357ab3)
+- [プロンプトエンジニアリング再入門](https://zenn.dev/acntechjp/articles/ad24cd00af552d)
 - [みんなで生成AIを使って生産性を高めよう！　超手軽なのに便利な使い方を紹介](https://ascii.jp/elem/000/004/242/4242443/)
 - [マイクロソフト、初心者向け生成AI学習教材「生成AIアプリケーションの開発を始めるために必要な全知識を学べる12講座」を無償公開](https://www.publickey1.jp/blog/24/aiai12.html)
 - [え？本買ってるの？？もっと良い方法あります。](https://qiita.com/itsuki_m/items/3fe9b1154e6e98b182e4)
@@ -37,7 +38,7 @@
 - [私のシンプルCursor活用方法](https://note.com/nike_cha_n/n/nd0f7566019ae)
 - [君たちはCursorを本当に使えているか](https://zenn.dev/jessicazu/articles/7a46a7e15c153f)
 - [「Cursor」完全入門｜AIエディター×GAS×LINE実践講座](https://zenn.dev/hstats/books/8bb2fc0c65f040)
-
+- [【完全比較】VS Code最強の3大AIアシスタント！Cline vs Roo Code vs CoolCline](https://qiita.com/syukan3/items/0b91c26fccb7a3550111)
 
 ## プログラミング言語
 
