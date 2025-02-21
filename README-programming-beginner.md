@@ -33,12 +33,18 @@
 - [マイクロソフト、初心者向け生成AI学習教材「生成AIアプリケーションの開発を始めるために必要な全知識を学べる12講座」を無償公開](https://www.publickey1.jp/blog/24/aiai12.html)
 - [え？本買ってるの？？もっと良い方法あります。](https://qiita.com/itsuki_m/items/3fe9b1154e6e98b182e4)
 
-### Cursor
-
+### [Cursor](https://www.cursor.com/ja/ja)
+- 
 - [私のシンプルCursor活用方法](https://note.com/nike_cha_n/n/nd0f7566019ae)
 - [君たちはCursorを本当に使えているか](https://zenn.dev/jessicazu/articles/7a46a7e15c153f)
 - [「Cursor」完全入門｜AIエディター×GAS×LINE実践講座](https://zenn.dev/hstats/books/8bb2fc0c65f040)
 - [【完全比較】VS Code最強の3大AIアシスタント！Cline vs Roo Code vs CoolCline](https://qiita.com/syukan3/items/0b91c26fccb7a3550111)
+
+### [Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev)
+- [【完全版】Clineとは何かを徹底解説します](https://zenn.dev/aimasaou/articles/d5dfb5a5382440)
+
+### [windsurf](https://codeium.com/windsurf)
+- 
 
 ## プログラミング言語
 
@@ -61,9 +67,13 @@
 - [40代プログラミング初心者がpython始めて半年！独学で勉強が続いている理由と読んだ本](https://qiita.com/usagipy/items/3cedb356702c1301028b)
 - [高校生向けの無料プログラミング講座「ハイスクールPython」が登場！](https://edu.watch.impress.co.jp/docs/report/1649104.html)
 
-## Linux
+### C言語
 
-- [[🔰初心者向け]Linuxを初歩から学びたい方へ🐧 ~ 初級編 全14回 ~](https://qiita.com/ikemura-ren/items/3e7b6ec1b0cd9b3928d6)
+- [C言語を習得する３つの方法](https://qiita.com/kaizen_nagoya/items/84cab0888c193bba429b)
+
+## etc...
+
+- [🔥2025年版！Python・AWS・初心者・JavaScript・Reactの最新トレンドと学び方🎯](https://qiita.com/YushiYamamoto/items/94c372e380e2feba37c3)
 
 ## インターネットリテラシー
 
@@ -78,6 +88,11 @@
 ## 中上級向け
 
 - [【2024年版】エンジニア必見　生産性があがるチートシート集](https://qiita.com/qrrq/items/51f6f0944c82f5cb3d16)
+
+### Linux
+
+- [[🔰初心者向け]Linuxを初歩から学びたい方へ🐧 ~ 初級編 全14回 ~](https://qiita.com/ikemura-ren/items/3e7b6ec1b0cd9b3928d6)
+- [【完全版】Linuxコマンドチートシート](https://qiita.com/Tun/items/e8e2a4a5fab018d7f6cd)
 
 ### Git + GitHub
 
