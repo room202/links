@@ -4,17 +4,20 @@
 - [ChatGPT](https://chatgpt.com)
 - [Gemini](https://gemini.google.com/app)
 - [Claude](https://claude.ai)
+- [deepseek](https://www.deepseek.com/)
 - [perplexity](https://www.perplexity.ai)
 - [GitHub Copilot](https://github.com/features/copilot)
 - [Microsoft Copilot](https://copilot.microsoft.com/)
 - [Notion AI](https://www.notion.com/ja/product/ai)
-- [deepseek](https://www.deepseek.com/)
 
 ### サービス
 - [ChatHub - GPT-4o, Claude 3.5, Gemini 1.5 並行比較](https://chathub.gg/ja/)
 - [AI自動文字起こしで誰でもかんたんDX 議事録革命!!ログミーツ](https://lp.logmeets.jp/)
 - [資料作成なら、スライド生成AI「イルシル」](https://irusiru.jp/)
 - [tl;dv](https://tldv.io/ja/)
+
+### モデル
+- [Llama](https://www.llama.com/)
 
 ## 画像生成
 - [Midjourney](https://www.midjourney.com/home)
