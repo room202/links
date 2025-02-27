@@ -51,6 +51,6 @@
 - [AIによる開発を体験してみよう（Clineを使った開発）](https://zenn.dev/chameleonmeme/articles/1c09e8f856c36b)
 
 ## [windsurf](https://codeium.com/windsurf)
-- 
 
+## [IntelliJ IDEA](https://www.jetbrains.com/ja-jp/idea/)
 
