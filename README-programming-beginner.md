@@ -34,7 +34,6 @@
 - [え？本買ってるの？？もっと良い方法あります。](https://qiita.com/itsuki_m/items/3fe9b1154e6e98b182e4)
 
 ### [Cursor](https://www.cursor.com/ja/ja)
-- 
 - [私のシンプルCursor活用方法](https://note.com/nike_cha_n/n/nd0f7566019ae)
 - [君たちはCursorを本当に使えているか](https://zenn.dev/jessicazu/articles/7a46a7e15c153f)
 - [「Cursor」完全入門｜AIエディター×GAS×LINE実践講座](https://zenn.dev/hstats/books/8bb2fc0c65f040)
@@ -42,6 +41,9 @@
 
 ### [Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev)
 - [【完全版】Clineとは何かを徹底解説します](https://zenn.dev/aimasaou/articles/d5dfb5a5382440)
+- [Cline+Claude SonnetでのAIプログラミングが心地よい](https://speakerdeck.com/tomohisa/cline-plus-claude-sonnetdenoaipuroguramingugaxin-di-yoi)
+- [Cline 試してみた](https://voluntas.ghost.io/try-cline/)
+- [AIによる開発を体験してみよう（Clineを使った開発）](https://zenn.dev/chameleonmeme/articles/1c09e8f856c36b)
 
 ### [windsurf](https://codeium.com/windsurf)
 - 
