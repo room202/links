@@ -7,11 +7,21 @@
 - [Claude](https://claude.ai)
 - [perplexity](https://www.perplexity.ai)
 - [Microsoft Copilot](https://copilot.microsoft.com/)
+- [Notion AI](https://www.notion.com/ja/product/ai)
+
+### 派生
+- [ChatHub](https://chathub.gg/ja/)
 
 ## 画像生成
+- [Midjourney](https://www.midjourney.com/home)
+- [にじジャーニー](https://nijijourney.com/home)
+- [Canva](https://www.canva.com/)
 - [DALL·E 3](https://openai.com/index/dall-e-3/)
+- [stability.ai](https://ja.stability.ai/)
 - [Image FX](https://labs.google/fx/ja/tools/image-fx)
 - [Leonardo.Ai](https://leonardo.ai/)
+- [Adobe Firefly](https://www.adobe.com/jp/products/firefly.html)
+- [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)
 
 ## 動画生成
 
