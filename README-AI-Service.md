@@ -2,9 +2,11 @@
 
 ## チャット
 - [ChatGPT](https://chatgpt.com)
-- [Claude](https://claude.ai)
 - [Gemini](https://gemini.google.com/app)
+- [GitHub Copilot](https://github.com/features/copilot)
+- [Claude](https://claude.ai)
 - [perplexity](https://www.perplexity.ai)
+- [Microsoft Copilot](https://copilot.microsoft.com/)
 
 ## 画像生成
 - [DALL·E 3](https://openai.com/index/dall-e-3/)
