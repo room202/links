@@ -12,7 +12,6 @@
 
 ### サービス
 - [ChatHub - GPT-4o, Claude 3.5, Gemini 1.5 並行比較](https://chathub.gg/ja/)
-- [AI自動文字起こしで誰でもかんたんDX 議事録革命!!ログミーツ](https://lp.logmeets.jp/)
 - [資料作成なら、スライド生成AI「イルシル」](https://irusiru.jp/)
 - [tl;dv](https://tldv.io/ja/)
 
