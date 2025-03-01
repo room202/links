@@ -59,6 +59,9 @@
 - [「Cursor」完全入門｜AIエディター×GAS×LINE実践講座](https://zenn.dev/hstats/books/8bb2fc0c65f040)
 - [【完全比較】VS Code最強の3大AIアシスタント！Cline vs Roo Code vs CoolCline](https://qiita.com/syukan3/items/0b91c26fccb7a3550111)
 
+## [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
+- [Claude Code の使い方](https://note.com/npaka/n/n3d754c78f439)
+
 ## [windsurf](https://codeium.com/windsurf)
 
 ## [IntelliJ IDEA](https://www.jetbrains.com/ja-jp/idea/)
