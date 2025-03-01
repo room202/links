@@ -44,13 +44,14 @@
 
 ## [Visual Studio Code](https://code.visualstudio.com/download)
 
-### [Gemini Code Assist](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist)
-
-### [Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev)
-- [【完全版】Clineとは何かを徹底解説します](https://zenn.dev/aimasaou/articles/d5dfb5a5382440)
-- [Cline+Claude SonnetでのAIプログラミングが心地よい](https://speakerdeck.com/tomohisa/cline-plus-claude-sonnetdenoaipuroguramingugaxin-di-yoi)
-- [Cline 試してみた](https://voluntas.ghost.io/try-cline/)
-- [AIによる開発を体験してみよう（Clineを使った開発）](https://zenn.dev/chameleonmeme/articles/1c09e8f856c36b)
+### 拡張機能
+- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- [Gemini Code Assist](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist)
+- [Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev)
+  - [【完全版】Clineとは何かを徹底解説します](https://zenn.dev/aimasaou/articles/d5dfb5a5382440)
+  - [Cline+Claude SonnetでのAIプログラミングが心地よい](https://speakerdeck.com/tomohisa/cline-plus-claude-sonnetdenoaipuroguramingugaxin-di-yoi)
+  - [Cline 試してみた](https://voluntas.ghost.io/try-cline/)
+  - [AIによる開発を体験してみよう（Clineを使った開発）](https://zenn.dev/chameleonmeme/articles/1c09e8f856c36b)
 
 ## [Cursor](https://www.cursor.com/ja/ja)
 - [私のシンプルCursor活用方法](https://note.com/nike_cha_n/n/nd0f7566019ae)
