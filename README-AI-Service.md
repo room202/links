@@ -42,17 +42,21 @@
 - [マイクロソフト、初心者向け生成AI学習教材「生成AIアプリケーションの開発を始めるために必要な全知識を学べる12講座」を無償公開](https://www.publickey1.jp/blog/24/aiai12.html)
 - [え？本買ってるの？？もっと良い方法あります。](https://qiita.com/itsuki_m/items/3fe9b1154e6e98b182e4)
 
+## [Visual Studio Code](https://code.visualstudio.com/download)
+
+### [Gemini Code Assist](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist)
+
+### [Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev)
+- [【完全版】Clineとは何かを徹底解説します](https://zenn.dev/aimasaou/articles/d5dfb5a5382440)
+- [Cline+Claude SonnetでのAIプログラミングが心地よい](https://speakerdeck.com/tomohisa/cline-plus-claude-sonnetdenoaipuroguramingugaxin-di-yoi)
+- [Cline 試してみた](https://voluntas.ghost.io/try-cline/)
+- [AIによる開発を体験してみよう（Clineを使った開発）](https://zenn.dev/chameleonmeme/articles/1c09e8f856c36b)
+
 ## [Cursor](https://www.cursor.com/ja/ja)
 - [私のシンプルCursor活用方法](https://note.com/nike_cha_n/n/nd0f7566019ae)
 - [君たちはCursorを本当に使えているか](https://zenn.dev/jessicazu/articles/7a46a7e15c153f)
 - [「Cursor」完全入門｜AIエディター×GAS×LINE実践講座](https://zenn.dev/hstats/books/8bb2fc0c65f040)
 - [【完全比較】VS Code最強の3大AIアシスタント！Cline vs Roo Code vs CoolCline](https://qiita.com/syukan3/items/0b91c26fccb7a3550111)
-
-## [Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev)
-- [【完全版】Clineとは何かを徹底解説します](https://zenn.dev/aimasaou/articles/d5dfb5a5382440)
-- [Cline+Claude SonnetでのAIプログラミングが心地よい](https://speakerdeck.com/tomohisa/cline-plus-claude-sonnetdenoaipuroguramingugaxin-di-yoi)
-- [Cline 試してみた](https://voluntas.ghost.io/try-cline/)
-- [AIによる開発を体験してみよう（Clineを使った開発）](https://zenn.dev/chameleonmeme/articles/1c09e8f856c36b)
 
 ## [windsurf](https://codeium.com/windsurf)
 
