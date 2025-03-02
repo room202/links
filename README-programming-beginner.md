@@ -1,8 +1,8 @@
 # プログラミング初心者向け
 
-## タイピング
-- [e-typing](https://www.e-typing.ne.jp/)
+## タイピング練習
 - [プレイグラム タイピング](https://typing.playgram.jp/)
+- [e-typing](https://www.e-typing.ne.jp/)
 - [寿司打](https://sushida.net/)
 
 ## プログラミング学習
