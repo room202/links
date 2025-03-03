@@ -62,6 +62,7 @@
 ## [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
 - [Claude Code チュートリアル](https://docs.anthropic.com/ja/docs/agents-and-tools/claude-code/tutorials)
 - [Claude Code の使い方](https://note.com/npaka/n/n3d754c78f439)
+- [Claude Codeを使ってみた](https://zenn.dev/mixi/articles/daee52c49e739b)
 
 ## [windsurf](https://codeium.com/windsurf)
 
