@@ -60,6 +60,7 @@
 - [【完全比較】VS Code最強の3大AIアシスタント！Cline vs Roo Code vs CoolCline](https://qiita.com/syukan3/items/0b91c26fccb7a3550111)
 
 ## [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
+- [Claude Code チュートリアル](https://docs.anthropic.com/ja/docs/agents-and-tools/claude-code/tutorials)
 - [Claude Code の使い方](https://note.com/npaka/n/n3d754c78f439)
 
 ## [windsurf](https://codeium.com/windsurf)
