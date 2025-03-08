@@ -40,4 +40,6 @@
 - [Kolosal](https://kolosal.ai/)
 
 ## 動画編集
+- [Clipchamp](https://forest.watch.impress.co.jp/library/software/clipchamp/)
+- [Shotcut](https://www.shotcut.org/)
 - [Nugget](https://nugget.framer.website/)
