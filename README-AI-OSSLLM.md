@@ -15,6 +15,6 @@
 
 ## [Mistral (Mistral AI)](https://mistral.ai/)
 
-## [Ollama]((https://ollama.com/))
+## [Ollama](https://ollama.com/))
 
 ローカル環境で大規模言語モデル（LLM）を簡単に実行できるオープンソースツール
