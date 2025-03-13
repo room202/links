@@ -15,9 +15,6 @@
 - [資料作成なら、スライド生成AI「イルシル」](https://irusiru.jp/)
 - [tl;dv](https://tldv.io/ja/)
 
-### モデル
-- [Llama](https://www.llama.com/)
-
 ## 画像生成
 - [Midjourney](https://www.midjourney.com/home)
 - [にじジャーニー](https://nijijourney.com/home)
