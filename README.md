@@ -1,6 +1,6 @@
 # リンク集
 
-[プログラミング初心者向け](README-Programming-Beginner.md)
+[プログラミング初心者向け](README-programming-beginner.md)
 
 [おすすめの本](README-Books.md)
 
@@ -12,4 +12,4 @@
 
 [フリー素材](README-Free-Sozai.md)
 
-[Windows11](README-Windows.md)
+[Windows11](README-windows.md)
