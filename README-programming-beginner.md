@@ -46,6 +46,7 @@
 
 ### C言語
 - [C言語を習得する３つの方法](https://qiita.com/kaizen_nagoya/items/84cab0888c193bba429b)
+- [The C programming language](https://www.c-language.org/)
 
 ## etc...
 - [🔥2025年版！Python・AWS・初心者・JavaScript・Reactの最新トレンドと学び方🎯](https://qiita.com/YushiYamamoto/items/94c372e380e2feba37c3)
