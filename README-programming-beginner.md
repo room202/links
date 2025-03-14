@@ -31,6 +31,7 @@
 ### HTML/CSS
 - [コピペ一発！便利なCSSレイアウト生成ツールおすすめ12選（Grid ＆ Flexbox編）](https://photoshopvip.net/135692)
 - [【保存版】フロントエンド初心者がまず読むべき資料まとめ【2024年最新】](https://qiita.com/nuco_YM/items/b4259d838be53a6f44ee)
+- [CSS Stock](https://pote-chil.com/css-stock/ja)
 
 ### JavaScript
 - [JavaScriptの基礎と向き合う](https://tech.iimon.co.jp/entry/2024/12/23)
