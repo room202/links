@@ -38,6 +38,7 @@
 ### SQL
 - [SQL道場](https://sql-dojo.com/)
 - [SQLab](https://sqlab.net/)
+- [【MySQL】手を動かして学ぶトランザクション入門](https://zenn.dev/praha/articles/a3e246880108a1)
 
 ### Python
 - [40代プログラミング初心者がpython始めて半年！独学で勉強が続いている理由と読んだ本](https://qiita.com/usagipy/items/3cedb356702c1301028b)
