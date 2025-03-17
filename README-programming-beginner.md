@@ -71,3 +71,6 @@
 - [【図解解説】これ1本でGitをマスターできるチュートリアル！【完全版】](https://qiita.com/Sicut_study/items/0318cc136c189b179b7f)
 - [ワイのGitHubリポジトリおすすめ設定(2022年 決定版)](https://qiita.com/john-Q/items/8b42d56b0be4ec63edb4)
 
+### クラウド環境
+- [1円も使いたくない個人開発のための技術スタック](https://zenn.dev/expkit/articles/9d4e2f192646a8)
+- [24GB RAM + 4CPU + 200GBストレージのLinuxサーバーを無料で手にいれる方法](https://qiita.com/shota0616/items/d0dfa1f70af073aa9554)
