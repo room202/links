@@ -21,6 +21,7 @@
 - [プログラミングのわからないの正体](https://qiita.com/Sicut_study/items/be13da34fda11eb1ec7b)
 - [エラーに直面したときにすべき5つのステップ](https://qiita.com/Sicut_study/items/41e79f911f7881966e38)
 - [新卒1年目に使ったエンジニア質問テンプレート](https://qiita.com/KNR109/items/550b52ff980c0c32bf2a)
+- [助けてほしいときのお作法](https://dev.classmethod.jp/articles/how-to-ask-help/)
 - [問題を解決するために必要な習慣](https://speakerdeck.com/soudai/developer-lifehack)
 - [わかりやすい説明のための 10 の鉄則](https://speakerdeck.com/e869120/wakariyasuisetsumei-10-tessoku)
 - [集中して作業する技術](https://speakerdeck.com/hanhan1978/how-to-work-deeply)
