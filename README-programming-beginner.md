@@ -50,6 +50,9 @@
 - [C言語を習得する３つの方法](https://qiita.com/kaizen_nagoya/items/84cab0888c193bba429b)
 - [The C programming language](https://www.c-language.org/)
 
+### Swift(Mac、iPhoneアプリ)
+- [「ミニアプリを作って楽しく学ぶSwift」一覧](https://codezine.jp/article/corner/1032)
+
 ## etc...
 - [🔥2025年版！Python・AWS・初心者・JavaScript・Reactの最新トレンドと学び方🎯](https://qiita.com/YushiYamamoto/items/94c372e380e2feba37c3)
 
