@@ -11,9 +11,15 @@
 - [Notion AI](https://www.notion.com/ja/product/ai)
 
 ### サービス
-- [ChatHub - GPT-4o, Claude 3.5, Gemini 1.5 並行比較](https://chathub.gg/ja/)
-- [資料作成なら、スライド生成AI「イルシル」](https://irusiru.jp/)
+- [Napkin AI](https://www.napkin.ai/)
+  - グラフや図解を自動生成してくれるAIツール
+  - [プレゼン資料が見違える！AI図解ツールNapkin AIの基本と実践的な使い方完全版](https://tech-lab.sios.jp/archives/46830)
+- [ChatHub](https://chathub.gg/ja/)
+  - GPT-4o, Claude 3.5, Gemini 1.5 並行比較
+- [イルシル](https://irusiru.jp/)
+  - 資料作成、スライド生成AI
 - [tl;dv](https://tldv.io/ja/)
+  - オンライン会議の録画や文字起こし・要約などが、無料かつ無制限で利用できる
 
 ## 画像生成
 - [Midjourney](https://www.midjourney.com/home)
