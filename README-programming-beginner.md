@@ -46,6 +46,9 @@
 - [40代プログラミング初心者がpython始めて半年！独学で勉強が続いている理由と読んだ本](https://qiita.com/usagipy/items/3cedb356702c1301028b)
 - [高校生向けの無料プログラミング講座「ハイスクールPython」が登場！](https://edu.watch.impress.co.jp/docs/report/1649104.html)
 
+### C#
+- [時刻や天気や音量レベルを表示するデスクトップアプリをWPFで作ってみた](https://qiita.com/kerobot/items/e4c2a9255d3b16aa0b0f)
+
 ### C言語
 - [C言語を習得する３つの方法](https://qiita.com/kaizen_nagoya/items/84cab0888c193bba429b)
 - [The C programming language](https://www.c-language.org/)
