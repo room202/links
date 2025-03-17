@@ -15,7 +15,9 @@
 
 ## [Mistral (Mistral AI)](https://mistral.ai/)
 
-## ローカル環境で大規模言語モデル（LLM）を簡単に実行できるオープンソースツール
+## ローカル環境で大規模言語モデル（LLM）を実行できるツール
 - [Ollama](https://ollama.com/)
 - [Kolosal](https://kolosal.ai/)
 
+### 使い方
+- [Gemma 3やQwQなどでローカルLLMがそろそろ使い物になってきた](https://nowokay.hatenablog.com/entry/2025/03/15/164734)
