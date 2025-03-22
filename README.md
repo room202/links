@@ -2,6 +2,8 @@
 
 [プログラミング初心者向け](README-programming-beginner.md)
 
+[プログラミング言語](README-programing.md)
+
 [おすすめの本](README-Books.md)
 
 [生成AIサービス](README-AI-Service.md)
