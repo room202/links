@@ -11,6 +11,7 @@
 - [Notion AI](https://www.notion.com/ja/product/ai)
 
 ### サービス
+- [OpenaAI.fm](https://www.openai.fm/) : OpenAI APIのテキスト読み上げモデルを試すためのデモサイト
 - [Napkin AI](https://www.napkin.ai/) : グラフや図解を自動生成してくれるAIツール
   - [プレゼン資料が見違える！AI図解ツールNapkin AIの基本と実践的な使い方完全版](https://tech-lab.sios.jp/archives/46830)
 - [ChatHub](https://chathub.gg/ja/) : GPT-4o, Claude 3.5, Gemini 1.5 並行比較 
