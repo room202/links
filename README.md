@@ -2,7 +2,7 @@
 
 [プログラミング初心者向け](README-programming-beginner.md)
 
-[プログラミング言語](README-programing.md)
+[プログラミング言語](README-Programing.md)
 
 [おすすめの本](README-Books.md)
 
