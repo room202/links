@@ -16,6 +16,8 @@
 - [perplexity](https://www.perplexity.ai)
 - [Notion AI](https://www.notion.com/ja/product/ai)
 - [deepseek](https://www.deepseek.com/)
+- [Qwen](https://chat.qwen.ai/) (Alibaba)
+- [ERNIE](https://yiyan.baidu.com/) (Baidu)
 
 ### サービス
 - [OpenaAI.fm](https://www.openai.fm/) : OpenAI APIのテキスト読み上げモデルを試すためのデモサイト
@@ -37,6 +39,7 @@
 - [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)
 
 ## 動画生成
+- [Google Vids](https://workspace.google.com/products/vids/)
 
 ## 音楽生成
 
