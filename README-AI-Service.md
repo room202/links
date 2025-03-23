@@ -10,11 +10,11 @@
     - [Claude Code チュートリアル](https://docs.anthropic.com/ja/docs/agents-and-tools/claude-code/tutorials)
     - [Claude Code の使い方](https://note.com/npaka/n/n3d754c78f439)
     - [Claude Codeを使ってみた](https://zenn.dev/mixi/articles/daee52c49e739b)
-- [deepseek](https://www.deepseek.com/)
 - [perplexity](https://www.perplexity.ai)
 - [GitHub Copilot](https://github.com/features/copilot)
 - [Microsoft Copilot](https://copilot.microsoft.com/)
 - [Notion AI](https://www.notion.com/ja/product/ai)
+- [deepseek](https://www.deepseek.com/)
 
 ### サービス
 - [OpenaAI.fm](https://www.openai.fm/) : OpenAI APIのテキスト読み上げモデルを試すためのデモサイト
