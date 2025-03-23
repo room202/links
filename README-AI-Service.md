@@ -3,7 +3,12 @@
 ## チャット
 - [ChatGPT](https://chatgpt.com)
 - [Gemini](https://gemini.google.com/app)
+  - [Google AI Studio](https://aistudio.google.com)
 - [Claude](https://claude.ai)
+  - [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
+    - [Claude Code チュートリアル](https://docs.anthropic.com/ja/docs/agents-and-tools/claude-code/tutorials)
+    - [Claude Code の使い方](https://note.com/npaka/n/n3d754c78f439)
+    - [Claude Codeを使ってみた](https://zenn.dev/mixi/articles/daee52c49e739b)
 - [deepseek](https://www.deepseek.com/)
 - [perplexity](https://www.perplexity.ai)
 - [GitHub Copilot](https://github.com/features/copilot)
@@ -66,8 +71,3 @@
 ## [windsurf](https://codeium.com/windsurf)
 
 ## [IntelliJ IDEA](https://www.jetbrains.com/ja-jp/idea/)
-
-## [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
-- [Claude Code チュートリアル](https://docs.anthropic.com/ja/docs/agents-and-tools/claude-code/tutorials)
-- [Claude Code の使い方](https://note.com/npaka/n/n3d754c78f439)
-- [Claude Codeを使ってみた](https://zenn.dev/mixi/articles/daee52c49e739b)
