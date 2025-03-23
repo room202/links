@@ -15,6 +15,10 @@
 
 ## [Mistral (Mistral AI)](https://mistral.ai/)
 
+## [Stockmark](https://stockmark.co.jp/)
+- [ストックマーク独自開発LLMが国内オープンモデルの中でも最高性能を記録 日本語特化の1,000億パラメータLLM「Stockmark-2-100B-Instruct-beta」を公開](https://stockmark.co.jp/news/20250318)
+  - [Stockmark-2-100B-Instruct-beta](https://huggingface.co/stockmark/Stockmark-2-100B-Instruct-beta)
+
 ## ローカル環境で大規模言語モデル（LLM）を実行できるツール
 - [Ollama](https://ollama.com/)
 - [Kolosal](https://kolosal.ai/)
