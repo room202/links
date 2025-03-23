@@ -19,6 +19,7 @@
 ## Python
 - [40代プログラミング初心者がpython始めて半年！独学で勉強が続いている理由と読んだ本](https://qiita.com/usagipy/items/3cedb356702c1301028b)
 - [高校生向けの無料プログラミング講座「ハイスクールPython」が登場！](https://edu.watch.impress.co.jp/docs/report/1649104.html)
+- [日本語に特化したAI OCR「YomiToku」の紹介](https://qiita.com/kanzoo/items/9d382fe4ec991a7eacd2)
 
 ## C#
 - [時刻や天気や音量レベルを表示するデスクトップアプリをWPFで作ってみた](https://qiita.com/kerobot/items/e4c2a9255d3b16aa0b0f)
