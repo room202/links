@@ -3,6 +3,7 @@
 ## チャット
 - [ChatGPT](https://chatgpt.com)
 - [Gemini](https://gemini.google.com/app)
+  - [Gemini Code Assist](https://codeassist.google/)
   - [Google AI Studio](https://aistudio.google.com)
 - [Claude](https://claude.ai)
   - [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
