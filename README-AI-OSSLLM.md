@@ -13,6 +13,13 @@
 
 ## [DeepSeek (DeepSeek AI)](https://www.deepseek.com/)
 
+## [Qwen](https://qwenlm.github.io/)
+- [https://github.com/QwenLM](https://github.com/QwenLM)
+- [https://huggingface.co/Qwen](https://huggingface.co/Qwen)
+### Qwen2.5-VL
+- [https://github.com/QwenLM/Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL)
+- [https://huggingface.co/Qwen/Qwen2.5-VL-32B-Instruct](https://huggingface.co/Qwen/Qwen2.5-VL-32B-Instruct)
+
 ## [Mistral (Mistral AI)](https://mistral.ai/)
 
 ## [Stockmark](https://stockmark.co.jp/)
