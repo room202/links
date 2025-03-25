@@ -6,10 +6,14 @@
 - [チームビルディングってどうやってやるの？ 代表的な手法やゲームを紹介](https://teamhackers.io/how-do-you-do-team-building/)
 - [IT エンジニアが対人関係でしくじらないために](https://qiita.com/e99h2121/items/99333306e66c77fcd3bb)
 
-## Git + GitHub
+## Git
 - [【図解解説】これ1本でGitをマスターできるチュートリアル！【完全版】](https://qiita.com/Sicut_study/items/0318cc136c189b179b7f)
-- [ワイのGitHubリポジトリおすすめ設定(2022年 決定版)](https://qiita.com/john-Q/items/8b42d56b0be4ec63edb4)
 
+## GitHub
+- [GitHub](https://github.co.jp/)
+- [ワイのGitHubリポジトリおすすめ設定(2022年 決定版)](https://qiita.com/john-Q/items/8b42d56b0be4ec63edb4)
+- [教師向け GitHub Education](https://docs.github.com/ja/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-teachers)
+- 
 ## テスト工程
 
 ### 単体テスト
