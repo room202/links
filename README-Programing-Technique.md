@@ -7,7 +7,11 @@
 - [IT エンジニアが対人関係でしくじらないために](https://qiita.com/e99h2121/items/99333306e66c77fcd3bb)
 
 ## Git
+- [初学者の私がGitを理解するために、この順番で読めばよかったと思った記事の順番](https://qiita.com/muranakar/items/e3e8e8187d32120c7fdf)
 - [【図解解説】これ1本でGitをマスターできるチュートリアル！【完全版】](https://qiita.com/Sicut_study/items/0318cc136c189b179b7f)
+- [🔰5分だけ努力するGit](https://qiita.com/tatta_chotdog/items/d583594f0d107a0f8576)
+- [🔰5分だけ努力するGit (2)](https://qiita.com/tatta_chotdog/items/833632362e3194c34ccb)
+- [Git入門](https://speakerdeck.com/silmin_/gitru-men)
 
 ## GitHub
 - [GitHub](https://github.co.jp/)
