@@ -1,5 +1,7 @@
 # 生成AIサービス
 
+[Artificial Analysis](https://artificialanalysis.ai/) : AI比較ランキングサイト
+
 ## チャット
 - [ChatGPT](https://chatgpt.com)
 - [Gemini](https://gemini.google.com/app)
@@ -31,6 +33,7 @@
 - [Notta](https://www.notta.ai/) : 自動文字起こしサービス
 
 ## 画像生成
+- [HalfmoonAI](https://halfmoon-ai.com/)
 - [Midjourney](https://www.midjourney.com/home)
 - [にじジャーニー](https://nijijourney.com/home)
 - [Canva](https://www.canva.com/)
