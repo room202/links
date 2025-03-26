@@ -5,13 +5,15 @@
 - [e-typing](https://www.e-typing.ne.jp/)
 - [寿司打](https://sushida.net/)
 
-## プログラミング学習
+## プログラミング学習サービス
 - [無料で学べる日本最大のオンライン大学講座（MOOC）](https://www.jmooc.jp/)
   - [世界中の大学のコンピュータサイエンスやプログラミング講座が日本語で学べる「MOOC」（大規模公開オンライン講座）サイトまとめ。2024年版](https://www.publickey1.jp/blog/24/moocmassive_open_online_courses2024.html)
 - [progate](https://prog-8.com)
 - [ドットインストール](https://dotinstall.com)
 - [paizaラーニング](https://paiza.jp/works)
 - [Udemy](https://www.udemy.com/ja/)
+
+## プログラミング学習
 - [【2024年最新版】オススメのプログラミング学習サービス集](https://qiita.com/KNR109/items/af433f1013221c5ed529)
 - [東大・東大生が公開しているエンジニアが読むべき資料まとめ](https://qiita.com/KNR109/items/853c8d8fe36ede1cc453)
 - [私が独学をして、マジ神だと思うサイトおよび他](https://qiita.com/chi1180/items/d945f5507f546bffa610)
