@@ -9,6 +9,7 @@
 - [PowerToys](https://learn.microsoft.com/ja-jp/windows/powertoys/)
 - [DesktopDigitalClock](https://www.softwareok.com/?Download=DesktopDigitalClock)
 - [PDFgear](https://www.pdfgear.com/jp/)
+- [GeekUninstaller](https://forest.watch.impress.co.jp/library/software/geekuninst/)
 
 ## エディタ
 - [Visual Studio Code](https://code.visualstudio.com/)
