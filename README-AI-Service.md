@@ -16,6 +16,7 @@
 - [Microsoft Copilot](https://copilot.microsoft.com/)
 - [Grok](https://x.ai/)
 - [perplexity](https://www.perplexity.ai)
+- [Replit](https://replit.com/)
 - [Notion AI](https://www.notion.com/ja/product/ai)
 - [deepseek](https://www.deepseek.com/)
 - [Qwen](https://chat.qwen.ai/) (Alibaba)
