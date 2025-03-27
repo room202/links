@@ -8,6 +8,7 @@
 - [Clibor](https://www.vector.co.jp/soft/winnt/util/se472890.html)
 - [PowerToys](https://learn.microsoft.com/ja-jp/windows/powertoys/)
 - [DesktopDigitalClock](https://www.softwareok.com/?Download=DesktopDigitalClock)
+- [PDFgear](https://www.pdfgear.com/jp/)
 
 ## エディタ
 - [Visual Studio Code](https://code.visualstudio.com/)
