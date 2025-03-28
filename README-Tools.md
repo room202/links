@@ -10,6 +10,7 @@
 - [DesktopDigitalClock](https://www.softwareok.com/?Download=DesktopDigitalClock)
 - [PDFgear](https://www.pdfgear.com/jp/)
 - [GeekUninstaller](https://forest.watch.impress.co.jp/library/software/geekuninst/)
+- [Googleドライブ(PC版)](https://support.google.com/a/users/answer/13022292?hl=ja)
 
 ## エディタ
 - [Visual Studio Code](https://code.visualstudio.com/)
