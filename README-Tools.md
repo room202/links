@@ -31,6 +31,7 @@
 - [TeraTerm](https://forest.watch.impress.co.jp/library/software/utf8teraterm/)
 
 ## Git/GitHubクライアント
+- [Git](https://git-scm.com/)
 - [Sourcetree](https://www.sourcetreeapp.com/)
 
 ## DBクライアント
