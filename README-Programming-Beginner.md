@@ -31,6 +31,7 @@
 - [わかりやすい説明のための 10 の鉄則](https://speakerdeck.com/e869120/wakariyasuisetsumei-10-tessoku)
 - [集中して作業する技術](https://speakerdeck.com/hanhan1978/how-to-work-deeply)
 - [新しい技術を学習しながらNotionでメモをとり、Zennで効率よく記事化するフロー](https://zenn.dev/pytokyo/articles/9af8586dacdebf60ce15?redirected=1)
+- [プログラミング学習の挫折を防ぐには？](https://yandod.github.io/blog/2022/05/09/programming-study-dropout-reduction/)
 
 ## インターネットリテラシー
 - [ポン太のインターネット教室](https://withponta.jp/)
